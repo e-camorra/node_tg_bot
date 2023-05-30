@@ -1,0 +1,11 @@
+{
+  "name": "node_tg_bot",
+  "version": "1.0.0",
+  "description": "tg_bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "start tg bot"
+  },
+  "author": "I",
+  "license": "ISC"
+}
